@@ -7,6 +7,8 @@
     - iOS UIKit
     - Reverse Engineering and Exploit Development
     - Machine Learning
+    - Robotics
+    - And much more...
 
 ![Aahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aahil52&theme=graywhite&show_icons=true)
 
